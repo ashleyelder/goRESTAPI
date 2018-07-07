@@ -39,5 +39,3 @@ PUT http://localhost:8000/movies/{id}
 ```
 DELETE http://localhost:8000/movies/{id}
 ```
-
-> Examples and more coming soon.
